@@ -1,0 +1,22 @@
+# Welcome to Jekyll!
+
+# -- Site Settings --
+title: Bitcoin Consultation Services (Staging)
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Your trusted guide to navigating Bitcoin with confidence. We'll replace this later.
+
+# The subpath of your site, e.g. /blog
+# IMPORTANT: This must match your repository name.
+baseurl: "/bitcoin-consulting-israel-staging.github.io"
+
+# The base hostname & protocol for your site
+url: "https://YaronWhite86.github.io"
+
+# -- Build Settings --
+# Select a theme for the initial setup
+theme: jekyll-theme-minimal
+
+# -- Plugins --
+plugins:
+  - jekyll-feed
