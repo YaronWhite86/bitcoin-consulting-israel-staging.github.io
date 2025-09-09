@@ -22,7 +22,8 @@ Ready to dive in? Use the calendar below to find a time that works for you.
 ## 2. Send a General Inquiry ✉️
 
 Have a question that wasn't in the FAQ? Fill out the form below and I'll get back to you as soon as I can.
-<!-- <form
+<!-- 
+<form
   action="https://formspree.io/f/mjkejlap"
   method="POST"
 >
@@ -36,5 +37,6 @@ Have a question that wasn't in the FAQ? Fill out the form below and I'll get bac
   </label>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
-</form> -->
+</form> 
+-->
 ---
