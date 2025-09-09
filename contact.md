@@ -35,7 +35,6 @@ Have a question that wasn't in the FAQ? Fill out the form below and I'll get bac
     Your message:
     <textarea name="message"></textarea>
   </label>
-  <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form> 
 -->
