@@ -51,3 +51,47 @@ footer {
     background-color: #f4f4f4;
     color: #555;
 }
+
+/* Logo Styling */
+.logo-link img {
+    max-height: 40px; /* Adjust this value to fit your logo's size */
+    width: auto;
+}
+
+/* Hero Section */
+.hero {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 80px 20px;
+}
+
+.hero h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+
+.hero .tagline {
+    font-size: 1.2em;
+    color: #555;
+    margin-bottom: 30px;
+}
+
+/* CTA Button */
+.cta-button {
+    background-color: #f7931a; /* Bitcoin Orange */
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+    background-color: #e08417;
+}
+
+/* Home Content Section */
+.home-content {
+  padding-top: 40px;
+}
