@@ -54,7 +54,7 @@ footer {
 
 /* Logo Styling */
 .logo-link img {
-    max-height: 40px; /* Adjust this value to fit your logo's size */
+    max-height: 75px; /* Adjust this value to fit your logo's size */
     width: auto;
 }
 
