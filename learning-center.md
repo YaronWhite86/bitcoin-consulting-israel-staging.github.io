@@ -33,6 +33,7 @@ Sometimes a picture is worth a thousand words. Here are some diagrams to help vi
   </div>
   <div>
     <h3>Traditional vs. P2P Networks</h3>
+    <p>A Peer-to-Peer (P2P) network is a system where individual computers, known as "peers" or "nodes," connect and share resources directly with each other without needing a central server. This is the foundation of Bitcoin's decentralization.</p>
     <img src="{{ '/assets/images/network_types_p2p.svg' | relative_url }}" alt="A diagram comparing hardware and software wallets.">
   </div>
 </div>
