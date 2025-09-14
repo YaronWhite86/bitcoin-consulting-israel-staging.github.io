@@ -10,7 +10,7 @@ For thousands of years, humans have used various objects as money. From seashell
 
 This is where the concept of **Stock-to-Flow (S2F)** becomes incredibly insightful.
 
-## ## Stock-to-Flow: A Measure of Scarcity
+### Stock-to-Flow: A Measure of Scarcity
 
 Stock-to-Flow is a ratio that quantifies how scarce a particular asset is. It's calculated by taking the **existing supply (stock)** of an asset and dividing it by the **annual production (flow)** of that asset.
 
@@ -20,7 +20,7 @@ A **high Stock-to-Flow ratio** indicates that the asset is very scarce. It means
 
 A **low Stock-to-Flow ratio** means the asset is relatively abundant or easy to produce. Its supply can be inflated quickly, making it a poor long-term store of value because its purchasing power can be easily diluted.
 
-## ## Stock-to-Flow in Traditional Assets
+### Stock-to-Flow in Traditional Assets
 
 Let's look at how this applies to traditional forms of money and stores of value:
 
@@ -36,7 +36,7 @@ Let's look at how this applies to traditional forms of money and stores of value
 
 *(Note: S2F for fiat currency is conceptual, as supply can be expanded at will, making the ratio unstable or meaningless.)*
 
-## ## Bitcoin's Unique Stock-to-Flow
+### Bitcoin's Unique Stock-to-Flow
 
 Bitcoin was designed from the ground up to be a superior form of digital scarcity. It has two built-in mechanisms that give it an incredibly predictable and high S2F:
 
@@ -50,7 +50,7 @@ Because of these rules, Bitcoin's S2F ratio increases predictably over time. Aft
 | Bitcoin (Pre-2024 Halving) | ~19.5 Million BTC        | ~328,500 BTC                | 59                      |
 | Bitcoin (Post-2024 Halving) | ~19.8 Million BTC        | ~164,250 BTC                | 120                     |
 
-## ## Why a High S2F Matters for Money
+### Why a High S2F Matters for Money
 
 An asset with a high and predictable S2F is attractive as money because:
 
