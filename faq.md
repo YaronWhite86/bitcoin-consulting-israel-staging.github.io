@@ -7,7 +7,7 @@ title: Frequently Asked Questions
 
 Have a question? Use the filters below to find answers tailored to your interests, or browse through the different sections.
 
-<div class="faq-toggle">
+<div class="faq-toggle" markdown="1">
   <button class="faq-button is-active" data-filter="all">Show All</button>
   <button class="faq-button" data-filter="beginner">Beginner</button>
   <button class="faq-button" data-filter="boomers">For Boomers</button>
@@ -19,7 +19,7 @@ Have a question? Use the filters below to find answers tailored to your interest
 </div>
 
 <div id="faq-container">
-  <div class="faq-section" id="beginner">
+  <div class="faq-section" id="beginner" markdown="1">
     ## Beginner FAQs
     <strong>Q: How much money do I need to start?</strong>
     A: A common misconception is that you need to buy a whole bitcoin. You don't! A single bitcoin is divisible into 100 million smaller units called "satoshis" or "sats." You can start with as little as a few shekels.
