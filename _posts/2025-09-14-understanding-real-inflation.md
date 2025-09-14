@@ -10,7 +10,7 @@ Everyone knows what inflation is, at least intuitively. It's the feeling that a 
 
 But how much is it leaking? To answer this, governments publish an official number called the **Consumer Price Index (CPI)**. The problem is, this number often doesn't reflect the reality that most of us feel in our daily lives and long-term planning.
 
-## What is the CPI?
+### What is the CPI?
 
 The CPI is an attempt to measure inflation by tracking the price of a theoretical "basket of consumer goods and services." Government statisticians track the prices of things like:
 
@@ -22,7 +22,7 @@ The CPI is an attempt to measure inflation by tracking the price of a theoretica
 
 By measuring how the price of this basket changes over time, they calculate the official inflation rate.
 
-## The Problems with the CPI Basket
+### The Problems with the CPI Basket
 
 While the idea is sound, the way the CPI is calculated has some significant flaws that tend to understate the real inflation rate.
 
@@ -30,7 +30,7 @@ While the idea is sound, the way the CPI is calculated has some significant flaw
 
 2.  **Hedonic Adjustments:** This is a complex way of saying they adjust for "quality improvements." For example, if a new smartphone costs 10% more but is 20% "better" (faster, better camera), they might report its price as having *decreased* for the purpose of the CPI. This ignores the reality that you still have to pay the higher price to get a modern phone.
 
-## The Biggest Flaw: Consumer vs. Asset Inflation
+### The Biggest Flaw: Consumer vs. Asset Inflation
 
 The most significant problem with the CPI is what it *doesn't* measure. The "basket" is almost entirely focused on things we **consume**—goods and services we use and replace. This is **consumer price inflation**.
 
@@ -44,7 +44,7 @@ Assets are things like:
 
 For most people, the goal isn't just to afford groceries this month; it's to be able to afford a house, a good retirement, and a secure future. The prices of these assets have historically increased much, much faster than the CPI. While the cost of bread might go up 3% in a year, the cost of an apartment in your city might go up 15%, but that massive increase is barely reflected in the CPI number.
 
-## Gold: A Real-World Inflation Detector
+### Gold: A Real-World Inflation Detector
 
 To see the difference between the CPI and real-world inflation, we can look at gold. Gold is a scarce asset that can't be created at will by governments.
 
@@ -52,14 +52,18 @@ In 1971, the U.S. dollar was officially disconnected from gold, allowing the gov
 
 Compare that to the official long-term average CPI statistics, which are typically closer to 3-4%. The massive difference between these numbers suggests that the true rate at which the currency is losing its value—the "leak" in your bucket—is much higher than the official numbers tell us. The rising price of scarce assets like gold reveals the inflation that the CPI often hides.
 
-## Why This Matters
+### Why This Matters
 
 Understanding the flaws of the CPI is crucial. If you are saving money in a bank account that earns 1% interest, but the official CPI is 3%, you know you are losing purchasing power. But if real-world asset inflation is closer to 8% or more, your savings are leaking away much faster than you realize.
 
 This is why people have always sought out scarce, "hard" assets that are difficult to produce. They are looking for a better bucket—a store of value that can protect their wealth over the long term from the persistent and often understated effects of inflation.
 
-## Practical Takeaway
+### Practical Takeaway
 
 Ever catch yourself saying, “They don’t make it like they used to”? In many cases you’re right—and inflation is a massive part of why. When CPI measures inflation at 2-3% and if real inflation is closer to 8%, capital goods and raw inputs are likely to increase at a rate closer to real inflation. 
 
 When input costs for materials, energy, labor, and capital equipment rise faster than what shoppers will tolerate at the register, manufacturers face a squeeze. Instead of raising prices 8% every year, they hold sticker prices down and re-engineer products to cut costs: thinner materials, simpler assemblies, shorter warranties, or smaller sizes. The quality drop you notice is often cost containment in disguise. Inflation isn’t the only factor but persistent cost pressure nudges companies toward “good enough” rather than “built forever.”
+
+### Simplified Example
+
+If a product used to cost a company $80 to make and sold for $100 (20% margin), and costs rise 8% (to $86.40) while the company can raise price only 3% (to $103), margin falls to $16.60 (~16%). To keep ~20% on $103, costs must drop to about $82.40—which often means cheaper materials or features.
