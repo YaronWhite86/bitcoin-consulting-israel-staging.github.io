@@ -19,7 +19,7 @@ Have a question? Use the filters below to find answers tailored to your interest
 </div>
 
 <div id="faq-container">
-  <div class="faq-section" id="beginner">
+  <div class="faq-section" id="beginner" markdown="1">
     ## Beginner FAQs
     **Q: How much money do I need to start?**
     A: A common misconception is that you need to buy a whole bitcoin. You don't! A single bitcoin is divisible into 100 million smaller units called "satoshis" or "sats." You can start with as little as a few shekels.
@@ -31,7 +31,7 @@ Have a question? Use the filters below to find answers tailored to your interest
     A: The Bitcoin network itself has never been hacked and is incredibly secure. The risks come from how you, the user, store your bitcoin. This is why learning about self-custody and protecting your seed phrase is the most important skill you can have, and it's a primary focus of my consultations.
   </div>
 
-  <div class="faq-section" id="boomers">
+  <div class="faq-section" id="boomers" markdown="1">
     ## Questions from Boomers
     **Q: I've heard Bitcoin is mainly for criminals. Is that true?**
     A: This was a common fear in the early days, but it's largely a myth now. The transparent nature of the blockchain actually makes it a poor tool for illicit activity compared to untraceable cash. Today, the vast majority of Bitcoin usage is for investment, savings, and speculation.
