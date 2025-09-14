@@ -146,3 +146,42 @@ footer {
         display: flex; /* Show the hamburger menu icon */
     }
 }
+
+/* -- FAQ Toggle Styles -- */
+.faq-toggle {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 20px;
+}
+
+.faq-button {
+  background-color: #f4f4f4;
+  color: #333;
+  border: 1px solid #ccc;
+  padding: 8px 15px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 0.9em;
+  transition: all 0.2s ease-in-out;
+}
+
+.faq-button:hover {
+  background-color: #e0e0e0;
+}
+
+.faq-button.is-active {
+  background-color: #f7931a; /* Bitcoin Orange */
+  color: white;
+  border-color: #f7931a;
+}
+
+.faq-section {
+  display: none; /* Hide all sections by default */
+}
+
+.faq-section.is-active {
+  display: block; /* Show the active section */
+}
