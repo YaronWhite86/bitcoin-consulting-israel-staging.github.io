@@ -21,19 +21,19 @@ Have a question? Use the filters below to find answers tailored to your interest
 <div id="faq-container">
   <div class="faq-section" id="beginner">
     ## Beginner FAQs
-    <strong>Q: How much money do I need to start?<strong>
+    <strong>Q: How much money do I need to start?</strong>
     A: A common misconception is that you need to buy a whole bitcoin. You don't! A single bitcoin is divisible into 100 million smaller units called "satoshis" or "sats." You can start with as little as a few shekels.
     
-    <strong>Q: Is Bitcoin anonymous?<strong>
+    <strong>Q: Is Bitcoin anonymous?</strong>
     A: No, it's pseudonymous. Think of it like writing a book under a pen name. All transactions are public on the blockchain, but they are tied to addresses, not real-world identities. While it's difficult to link an address to a person, it's not impossible.
     
-    <strong>Q: Is it safe? Am I going to get hacked?<strong>
+    <strong>Q: Is it safe? Am I going to get hacked?</strong>
     A: The Bitcoin network itself has never been hacked and is incredibly secure. The risks come from how you, the user, store your bitcoin. This is why learning about self-custody and protecting your seed phrase is the most important skill you can have, and it's a primary focus of my consultations.
   </div>
 
   <div class="faq-section" id="boomers">
     ## Questions from Boomers
-    <strong>Q: I've heard Bitcoin is mainly for criminals. Is that true?<strong>
+    <strong>Q: I've heard Bitcoin is mainly for criminals. Is that true?</strong>strong>
     A: This was a common fear in the early days, but it's largely a myth now. The transparent nature of the blockchain actually makes it a poor tool for illicit activity compared to untraceable cash. Today, the vast majority of Bitcoin usage is for investment, savings, and speculation.
     
     **Q: Is this similar to digital gold?**
