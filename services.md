@@ -28,7 +28,7 @@ For those looking to integrate Bitcoin into their broader financial plan. We'll 
 
 *[Link to Scheduling Tool Will Go Here]*
 
-## Group Lecture Bitcoin Intro (90 mins)
+## Group Lecture Bitcoin Intro (90 mins, minimum 5 participants)
 A personalized introduction to Bitcoin's history and why it's important today. We'll cover the essentials, answer all your initial questions, and map out your next steps. Deep dive into 'What is Money?'.
 This Lecture can be tailored to absolute beginners as well as a group more technically inclined.
 
