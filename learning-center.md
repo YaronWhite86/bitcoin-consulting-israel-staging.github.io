@@ -5,7 +5,7 @@ title: Learning Center
 
 # Learning Center
 
-Welcome to the Learning Center. Here you'll find a collection of articles designed to help you understand Bitcoin, from the absolute basics to more advanced topics.
+Welcome to the Learning Center. Here you'll find a collection of articles, diagrams and aids designed to help you understand Bitcoin, from the absolute basics to more advanced topics.
 
 ---
 
