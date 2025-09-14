@@ -15,10 +15,11 @@ document.addEventListener('DOMContentLoaded', () => {
   const faqToggles = document.querySelectorAll('.faq-button');
   const faqSections = document.querySelectorAll('.faq-section');
 
-  // By default, show all sections
-  faqSections.forEach(section => {
-    section.classList.add('is-active');
-  });
+  // By default, show only the beginner section
+  const beginnerSection = document.getElementById('beginner');
+  if (beginnerSection) {
+    beginnerSection.classList.add('is-active');
+  }
 
   faqToggles.forEach(toggle => {
     toggle.addEventListener('click', () => {
