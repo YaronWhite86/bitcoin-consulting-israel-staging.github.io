@@ -7,7 +7,7 @@ title: Frequently Asked Questions
 
 Have a question? Use the filters below to find answers tailored to your interests, or browse through the different sections.
 
-<div class="faq-toggle">
+<div class="faq-toggle" markdown="1">
   <button class="faq-button is-active" data-filter="all">Show All</button>
   <button class="faq-button" data-filter="beginner">Beginner</button>
   <button class="faq-button" data-filter="boomers">For Boomers</button>
