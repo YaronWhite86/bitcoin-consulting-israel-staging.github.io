@@ -24,7 +24,7 @@ Have a question? Use the filters below to find answers tailored to your interest
     **Q: How much money do I need to start?**
     A: A common misconception is that you need to buy a whole bitcoin. You don't! A single bitcoin is divisible into 100 million smaller units called "satoshis" or "sats." You can start with as little as a few shekels.
     
-    **Q: Is Bitcoin anonymous?</strong>
+    **Q: Is Bitcoin anonymous?**
     A: No, it's pseudonymous. Think of it like writing a book under a pen name. All transactions are public on the blockchain, but they are tied to addresses, not real-world identities. While it's difficult to link an address to a person, it's not impossible.
     
     **Q: Is it safe? Am I going to get hacked?**
