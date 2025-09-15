@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 1200 780"
+     xmlns="http://www.w3.org/2000/svg"
+     role="img" aria-labelledby="title desc"
+     preserveAspectRatio="xMidYMin meet"
+     style="display:block;width:100%;height:auto;max-width:480px;margin:0 auto">
+  <title id="title">Bitcoin Transaction on the Network — Sequence Diagram</title>
+  <desc id="desc">Wallet sends a transaction to a Full Node, which validates and relays to a Miner. Miner adds to mempool, mines a new block, adds it to the Blockchain, which is then distributed. Wallet receives confirmation.</desc>
+
+  <!-- ==== defs & styles ==== -->
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#1f2937"/>
+    </marker>
+    <marker id="arrowSoft" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#6b7280"/>
+    </marker>
+    <style>
+      .font { font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial; fill:#111827 }
+      .muted { fill:#4b5563 }
+      .lane  { stroke:#c4b5fd; stroke-width:4; }
+      .box   { fill:#f5f3ff; stroke:#c4b5fd; stroke-width:1.6; rx:10; ry:10; }
+      .footer{ fill:#f5f3ff; stroke:#c4b5fd; stroke-width:1.4; rx:10; ry:10; }
+      .title { font-size:16px; font-weight:600 }
+      .label { font-size:14px }
+      .msg   { stroke:#1f2937; stroke-width:1.8; fill:none; marker-end:url(#arrow) }
+      .msg-soft { stroke:#6b7280; stroke-width:1.8; fill:none; stroke-dasharray:6 6; marker-end:url(#arrowSoft) }
+      .note  { font-size:13px; fill:#374151 }
+      .loop  { stroke:#1f2937; stroke-width:1.6; fill:none; marker-end:url(#arrow) }
+      .actor { font-size:14px; fill:#6d28d9; font-weight:600 }
+    </style>
+  </defs>
+
+  <!-- x positions for lanes -->
+  <!-- Wallet=120, FullNode=420, Miner=720, Blockchain=1020 -->
+  <!-- lane verticals -->
+  <line x1="120" y1="90" x2="120" y2="720" class="lane"/>
+  <line x1="420" y1="90" x2="420" y2="720" class="lane"/>
+  <line x1="720" y1="90" x2="720" y2="720" class="lane"/>
+  <line x1="1020" y1="90" x2="1020" y2="720" class="lane"/>
+
+  <!-- headers -->
+  <g class="font">
+    <rect class="box" x="50"  y="40" width="140" height="44"/>
+    <text class="title" x="70" y="68">Wallet 💼</text>
+
+    <rect class="box" x="350" y="40" width="140" height="44"/>
+    <text class="title" x="368" y="68">Full Node 🌐</text>
+
+    <rect class="box" x="650" y="40" width="140" height="44"/>
+    <text class="title" x="683" y="68">Miner ⛏️</text>
+
+    <rect class="box" x="950" y="40" width="140" height="44"/>
+    <text class="title" x="958" y="68">Blockchain 📜</text>
+  </g>
+
+  <!-- messages & loops -->
+  <!-- Send transaction -->
+  <path class="msg" d="M120,150 H420"/>
+  <text class="note font" x="200" y="142">Send transaction</text>
+
+  <!-- Validate transaction (loop at Full Node) -->
+  <path class="loop" d="M402,178 c -30,0 -30,34 0,34"/>
+  <text class="note font" x="250" y="190">Validate transaction</text>
+
+  <!-- Relay validated transaction -->
+  <path class="msg" d="M420,230 H720"/>
+  <text class="note font" x="470" y="222">Relay validated transaction</text>
+
+  <!-- Add tx to mempool (loop at Miner) -->
+  <path class="loop" d="M702,258 c -30,0 -30,34 0,34"/>
+  <text class="note font" x="735" y="278">Add transaction to mempool</text>
+
+  <!-- Mine new block (loop at Miner) -->
+  <path class="loop" d="M702,308 c -30,0 -30,34 0,34"/>
+  <text class="note font" x="740" y="328">Mine new block</text>
+
+  <!-- Add new block -->
+  <path class="msg" d="M720,370 H1020"/>
+  <text class="note font" x="795" y="362">Add new block</text>
+
+  <!-- Distribute updated blockchain (dashed back to Full Node) -->
+  <path class="msg-soft" d="M1020,430 H420"/>
+  <text class="note font muted" x="680" y="422">Distribute updated blockchain</text>
+
+  <!-- Confirm transaction (dashed back to Wallet) -->
+  <path class="msg-soft" d="M420,620 H120"/>
+  <text class="note font muted" x="175" y="612">Confirm transaction</text>
+
+  <!-- footers -->
+  <g class="font">
+    <rect class="footer" x="50"  y="700" width="140" height="50"/>
+    <text class="title" x="70" y="730">Wallet 💼</text>
+
+    <rect class="footer" x="350" y="700" width="140" height="50"/>
+    <text class="title" x="368" y="730">Full Node 🌐</text>
+
+    <rect class="footer" x="650" y="700" width="140" height="50"/>
+    <text class="title" x="683" y="730">Miner ⛏️</text>
+
+    <rect class="footer" x="950" y="700" width="140" height="50"/>
+    <text class="title" x="958" y="730">Blockchain 📜</text>
+  </g>
+
+  <!-- side actor labels (optional) -->
+  <g class="font actor"></g>
+</svg>
