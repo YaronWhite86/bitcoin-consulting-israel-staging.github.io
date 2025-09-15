@@ -186,13 +186,12 @@ footer {
   display: block; /* Show the active section */
 }
 
-/* -- Price Ticker Styles -- */
+
+/* -- Updated Price Ticker Styles -- */
 #btc-price-ticker {
   color: white;
-  margin-left: 20px;
   font-size: 0.9em;
   padding: 5px 10px;
-  border: 1px solid #555;
   border-radius: 5px;
   background-color: #34495e;
 }
@@ -201,9 +200,24 @@ footer {
   font-weight: bold;
 }
 
-/* Hide the ticker on mobile to save space */
-@media (max-width: 900px) {
+/* On desktop, keep it separate */
+@media (min-width: 769px) {
+  .nav-ticker {
+    margin-left: 20px;
+  }
   #btc-price-ticker {
-    display: none;
+    border: 1px solid #555;
+  }
+}
+
+/* On mobile, make it look like a menu item */
+@media (max-width: 768px) {
+  .nav-ticker {
+    padding: 15px 0;
+    width: 100%;
+    text-align: center;
+  }
+  #btc-price-ticker {
+    display: inline-block; /* Allows it to be centered */
   }
 }
