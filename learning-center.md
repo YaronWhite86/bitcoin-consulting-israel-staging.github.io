@@ -29,7 +29,7 @@ Sometimes a picture is worth a thousand words. Here are some diagrams to help vi
 <div class="diagram-gallery">
   <div>
     <h3>How a Transaction Works On the Bitcoin Network</h3>
-    <img src="{{ '/assets/images/bitcoin_netork_tranaction.svg' | relative_url }}" alt="A diagram explaining the bitcoin transaction process.">
+    <img src="{{ '/assets/images/bitcoin_network_transaction.svg' | relative_url }}" alt="A diagram explaining the bitcoin transaction process.">
   </div>
   <div>
     <h3>Traditional vs. P2P Networks</h3>
