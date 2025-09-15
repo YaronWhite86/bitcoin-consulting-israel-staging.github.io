@@ -185,3 +185,25 @@ footer {
 .faq-section.is-active {
   display: block; /* Show the active section */
 }
+
+/* -- Price Ticker Styles -- */
+#btc-price-ticker {
+  color: white;
+  margin-left: 20px;
+  font-size: 0.9em;
+  padding: 5px 10px;
+  border: 1px solid #555;
+  border-radius: 5px;
+  background-color: #34495e;
+}
+
+#btc-price {
+  font-weight: bold;
+}
+
+/* Hide the ticker on mobile to save space */
+@media (max-width: 900px) {
+  #btc-price-ticker {
+    display: none;
+  }
+}
