@@ -42,4 +42,8 @@ Reading is one of the best ways to deepen your understanding of Bitcoin. Here ar
 <br>
 [**Find it on Amazon**](https://www.amazon.com/dp/B08725C857?plink=Ym9kjM1QwQnIiQEC&pf_rd_r=R0YDZB978F6GCK5Z8ZBR&ref_=adblp13nvvxx_0_5_im)
 
+### Layered Money by Nik Bhatia
+> Layered Money lays out how money evolves in layers—base money and the credit built atop it—tracing the journey from gold and dollars to Bitcoin and CBDCs. Nik Bhatia gives you a crisp mental model of who holds power at each layer, how risks cascade through the system, and what that means for the future of global finance.
+<br>
+[**Find it on Amazon**](https://www.amazon.com/dp/B091D3KR8G?plink=as6FPLBapB672TFB&pf_rd_r=QRG8GW4ZBDC0XWKKF1H9&ref_=adblp13nvvxx_0_14_im)
 ---
