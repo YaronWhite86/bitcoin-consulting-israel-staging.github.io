@@ -5,7 +5,7 @@ title: Home
 
 <div class="hero">
   <h1>Bitcoin, Simplified.</h1>
-  <p class="tagline">Your trusted guide to navigating the world of digital assets with clarity and confidence.</p>
+  <p class="tagline">Your trusted guide to navigating the world of Bitcoin with clarity and confidence.</p>
   <a href="{{ '/services.html' | relative_url }}" class="cta-button">Book a Free Intro Call</a>
 </div>
 
