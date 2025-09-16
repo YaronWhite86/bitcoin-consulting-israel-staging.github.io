@@ -13,7 +13,7 @@ Before understanding what Bitcoin *is*, it helps to understand the problem it so
 Bitcoin is a new form of digital money. It was created in 2009 by an anonymous person or group known as Satoshi Nakamoto. Unlike traditional money, Bitcoin has a few key properties that make it unique:
 
 * **Decentralized:** No single person, company, or government controls it. It's run by a global network of computers, making it resistant to censorship or shutdown.
-* **Fixed Supply:** There will only ever be 21 million bitcoin created. This scarcity is built into the code, meaning it cannot be devalued by printing more of it. It's like digital gold.
+* **Fixed Supply:** There will only ever be a maximum of 21 million bitcoin created. This scarcity is built into the code, meaning it cannot be devalued by printing more of it. It's like digital gold.
 * **Peer-to-Peer:** You can send it to anyone, anywhere in the world, without needing a bank or other financial institution in the middle.
 
 In short, Bitcoin offers a way to save and transact value in a system that is open, transparent, and predictable.
