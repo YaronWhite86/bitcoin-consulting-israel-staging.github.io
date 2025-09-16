@@ -16,4 +16,4 @@ Bitcoin is a new form of digital money. It was created in 2009 by an anonymous p
 * **Fixed Supply:** There will only ever be a maximum of 21 million bitcoin created. This scarcity is built into the code, meaning it cannot be devalued by printing more of it. It's like digital gold.
 * **Peer-to-Peer:** You can send it to anyone, anywhere in the world, without needing a bank or other financial institution in the middle.
 
-In short, Bitcoin offers a way to save and transact value in a system that is open, transparent, and predictable.
+In short, Bitcoin offers a way to save and transact value in a system that is open, transparent, apolitical and predictable.
